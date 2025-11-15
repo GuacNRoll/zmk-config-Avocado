@@ -1,0 +1,6 @@
+if SHIELD_AVOCADO
+
+config ZMK_KEYBOARD_NAME
+    default "Avocado"
+
+endif
