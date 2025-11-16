@@ -25,9 +25,9 @@
 
                 &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans        &trans
 
-                &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &rgb_ug_bri_up        &trans
+                &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &rgb_ug RGB_BRI        &trans
 
-                &trans &trans &trans               &trans               &trans &trans &trans &rgb_ug_toggle  &rgb_ug_bri_down      &trans
+                &trans &trans &trans               &trans               &trans &trans &trans &rgb_ug RGB_TOG  &rgb_ug RGB_BRD       &trans
             >;
         };
     };
