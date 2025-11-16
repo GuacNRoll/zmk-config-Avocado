@@ -97,4 +97,8 @@
                          LED_COLOR_ID_RED
                          LED_COLOR_ID_BLUE>;
     };
+
+    studio {
+        compatible = "zmk,studio";
+    };
 };
