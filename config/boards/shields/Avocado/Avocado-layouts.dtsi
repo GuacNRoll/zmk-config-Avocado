@@ -94,6 +94,7 @@
             , <&key_physical_attrs 100 100 1400 400 0 0 0> // DOWN ARROW
             , <&key_physical_attrs 0   0   0    0   0 0 0> //Place Holder
             , <&key_physical_attrs 100 100 1500 400 0 0 0> // RIGHT ARROW
+            ;
   
     };
 };
